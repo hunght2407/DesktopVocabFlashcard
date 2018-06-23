@@ -1,0 +1,2943 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Vocabulary>
+<word>
+<original>encouraged</original>
+<phonetic>/in'kʌridʤ/</phonetic>
+<vietnamese>khuyến khích</vietnamese>
+<example>example</example>
+<flag>0</flag>
+</word>
+<word>
+<original>ambiguous</original>
+<phonetic>/æm'bigjuəs/ -adj</phonetic>
+<vietnamese>không rõ ràng, mơ hồ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>correspond</original>
+<phonetic>/,kɔris'pɔnd/ -v</phonetic>
+<vietnamese>tương ứng, phù hợp ~ equivalent</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>confuse</original>
+<phonetic>/kən'fju:z/ -n -v</phonetic>
+<vietnamese>lẫn lộn, lộn xộn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>towards</original>
+<phonetic>/tə'wɔ:d/ -preposition</phonetic>
+<vietnamese>về phía, hướng về</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>attention</original>
+<phonetic>/ə'tenʃn/</phonetic>
+<vietnamese>chú ý</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>sympathy</original>
+<phonetic>/'simpəθi/ -n</phonetic>
+<vietnamese>thông cảm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>appreciate</original>
+<phonetic>/ə'pri:ʃieit/ -v</phonetic>
+<vietnamese>đánh giá cao, tán dương</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>suppose</original>
+<phonetic>/sə'pouz/</phonetic>
+<vietnamese>giả sử, giả thiết</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>loan</original>
+<phonetic>/loun/ -n -v</phonetic>
+<vietnamese>cho vay, cho mượn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>realize</original>
+<phonetic>/'riəlaiz/ -v</phonetic>
+<vietnamese>hiểu rõ, nhận thức rõ </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>taste</original>
+<phonetic>/teist/ -n</phonetic>
+<vietnamese>vị</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>disgust</original>
+<phonetic>/dis'gʌstiɳ/ -v</phonetic>
+<vietnamese>làm kinh tởm; làm chán ghét</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>trouble</original>
+<phonetic>/'trʌbl/ -n</phonetic>
+<vietnamese>rắc rối</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>accomplish</original>
+<phonetic>/ə'kɔmpliʃ/ -v</phonetic>
+<vietnamese>hoàn thành, làm xong</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>afford</original>
+<phonetic>/ə'fɔ:d/ -v</phonetic>
+<vietnamese>có đủ sức, có đủ khả năng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>advice</original>
+<phonetic>/əd'vais/ -n</phonetic>
+<vietnamese>lời khuyên, lời chỉ bảo</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>nose</original>
+<phonetic>/nouz/ -n</phonetic>
+<vietnamese>cái mũi</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>elbow</original>
+<phonetic>/elbou/ -n</phonetic>
+<vietnamese>khuỷu tay, cùi chỏ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>stomach</original>
+<phonetic>/'stʌmək/ -n</phonetic>
+<vietnamese>bụng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>arm</original>
+<phonetic>/ɑ:m/ -n</phonetic>
+<vietnamese>cánh tay</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>aid</original>
+<phonetic>/eid/</phonetic>
+<vietnamese>sự viện trợ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>punish </original>
+<phonetic>/'pʌniʃ/ -v</phonetic>
+<vietnamese>phạt, trừng phạt</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>strict</original>
+<phonetic>/strikt/ -adj</phonetic>
+<vietnamese>nghiêm ngặt</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>honest</original>
+<phonetic>/'ɔnist/ -adj</phonetic>
+<vietnamese>lương thiện, thật thà</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>generous</original>
+<phonetic>/'dʤenərəs/</phonetic>
+<vietnamese>rộng rãi, hào phóng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>prank</original>
+<phonetic>/præɳk/</phonetic>
+<vietnamese>trò chơi ác, trò chơi khăm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>remain</original>
+<phonetic>/ri'mein/ -v</phonetic>
+<vietnamese>còn, vẫn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>temperature</original>
+<phonetic>/ˈtemprətʃə/ -n</phonetic>
+<vietnamese>nhiệt độ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>measure</original>
+<phonetic>/'meʤə/</phonetic>
+<vietnamese>sự đo lường</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>Celsius</original>
+<phonetic>/ˈselsiəs/</phonetic>
+<vietnamese>độ C</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>refrigerate</original>
+<phonetic>/ri'fridʤəreit/ -v</phonetic>
+<vietnamese>làm lạnh; ướp lạnh</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>patient</original>
+<phonetic>/'peiʃənt/</phonetic>
+<vietnamese>người bệnh</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>emergency</original>
+<phonetic>/i'mə:dʤensi/</phonetic>
+<vietnamese>khẩn cấp</vietnamese>
+<example>exampled</example>
+<flag>1</flag>
+</word>
+<word>
+<original>immediate</original>
+<phonetic>/i'mi:djətli/ -adj</phonetic>
+<vietnamese>ngay lập tức, tức thì</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>consult</original>
+<phonetic>/kən'sʌlt/ -v</phonetic>
+<vietnamese>hỏi ý kiến, thăm dò</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>accelerate</original>
+<phonetic>/æk'seləreit/ -v</phonetic>
+<vietnamese>thúc đẩy, thúc mau</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>commerce</original>
+<phonetic>/'kɔmə:s/</phonetic>
+<vietnamese>sự buôn bán; thương mại</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>appropriate</original>
+<phonetic>/ə'proupriit/ -adj</phonetic>
+<vietnamese>thích hợp,</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>sustain</original>
+<phonetic>/səs'tein/ -v</phonetic>
+<vietnamese>ổn định, có thể chịu được</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pat</original>
+<phonetic>/pæt/ -v</phonetic>
+<vietnamese>vỗ nhẹ, vỗ về</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>injure</original>
+<phonetic>/'indʤə/ -v</phonetic>
+<vietnamese>làm bị thương</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>wrist</original>
+<phonetic>/rist/ -n</phonetic>
+<vietnamese>cổ tay</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>aspirin</original>
+<phonetic>/'æspərin/</phonetic>
+<vietnamese>thuốc nhức đầu</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>cabinet</original>
+<phonetic>/'kæbinit/</phonetic>
+<vietnamese>tủ nhỏ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>bandage</original>
+<phonetic>/'bændiʤ/ -n -v</phonetic>
+<vietnamese>băng cá nhân, băng bó</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>excellent</original>
+<phonetic>/'eksələnt/</phonetic>
+<vietnamese>rất tốt, xuất sắc</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>humour</original>
+<phonetic>/'hju:mə/ -n</phonetic>
+<vietnamese>sự hài hước, sự hóm hỉnh</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>organ</original>
+<phonetic>/'ɔ:gən/ -n</phonetic>
+<vietnamese>cơ quan, bộ phận cơ thể</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>ankle</original>
+<phonetic>/'æɳkl/ -n</phonetic>
+<vietnamese>mắt cá chân</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>bump</original>
+<phonetic>/bʌmp/ -v</phonetic>
+<vietnamese>đâm vào, đâm sầm vào</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>painful</original>
+<phonetic>/'peinful/ -adj</phonetic>
+<vietnamese>đau đớn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>swollen</original>
+<phonetic>/'swoulən/ -adj</phonetic>
+<vietnamese>chỗ phình ra, sưng lên</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>wrap</original>
+<phonetic>/ræp/ -v</phonetic>
+<vietnamese>bao phủ, gói, quấn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>tightly</original>
+<phonetic>/'taitli/ -adverb</phonetic>
+<vietnamese>chặt chẽ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>serious</original>
+<phonetic>/'siəriəs/ -adj</phonetic>
+<vietnamese>nghiêm trọng, trầm trọng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>injury</original>
+<phonetic>/'indʤəri/ -n</phonetic>
+<vietnamese>chỗ bị thương</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>heal</original>
+<phonetic>/hi:l/ -v</phonetic>
+<vietnamese>chữa khỏi, làm lành </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>court</original>
+<phonetic>/kɔ:t/</phonetic>
+<vietnamese>sân nhà</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>treatment</original>
+<phonetic>/'tri:tmənt/ -n</phonetic>
+<vietnamese>sự điều trị</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>jacket</original>
+<phonetic>/'dʤækit/</phonetic>
+<vietnamese>áo vét </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>lend</original>
+<phonetic>/lent/ -v</phonetic>
+<vietnamese>cho vay, cho mượn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>retire</original>
+<phonetic>/ri'taiə/ -v</phonetic>
+<vietnamese>nghĩ hưu</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>recently</original>
+<phonetic>/'ri:sntli/</phonetic>
+<vietnamese>gần đây, mới đây</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>lying</original>
+<phonetic>/'laiiɳ/ -n</phonetic>
+<vietnamese>sự nằm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>awake</original>
+<phonetic>/ə'weik/ -v</phonetic>
+<vietnamese>đánh thức, làm thức dậy</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>childhood</original>
+<phonetic>/'tʃaildhud/ -n</phonetic>
+<vietnamese>tuổi thơ ấu, thời thơ ấu</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>except</original>
+<phonetic>/ik'sept/ -v</phonetic>
+<vietnamese>trừ ra, loại ra</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>behave</original>
+<phonetic>/bi'heiv/ -v</phonetic>
+<vietnamese>đối xử, cư xử</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pattern</original>
+<phonetic>/'pætən/ -n</phonetic>
+<vietnamese>kiểu mẫu, gương mẫu</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>gap</original>
+<phonetic>/gæp/ -n</phonetic>
+<vietnamese>lỗ hổng, kẽ hở</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>brave</original>
+<phonetic>/breiv/ -adj</phonetic>
+<vietnamese>can đảm, dũng cảm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>neat</original>
+<phonetic>/ni:t/ -adj</phonetic>
+<vietnamese>sạch gọn, ngăn nắp</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>quiet</original>
+<phonetic>/'kwaiət/ -adj</phonetic>
+<vietnamese>yên lặng, yên tĩnh</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>push</original>
+<phonetic>/puʃ/ -v -n</phonetic>
+<vietnamese>xô, đẩy</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>blame</original>
+<phonetic>/bleɪm/ -v</phonetic>
+<vietnamese>khiển trách; lời trách mắng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>attitude</original>
+<phonetic>/'ætitju:d/ -n</phonetic>
+<vietnamese>thái độ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>observe</original>
+<phonetic>/əb'zə:v/ -v</phonetic>
+<vietnamese>quan sát, nhận xét, theo dõi</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>neighbour</original>
+<phonetic>/'neibə/ -n</phonetic>
+<vietnamese>người hàng xóm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>polite</original>
+<phonetic>/pə'lait/</phonetic>
+<vietnamese>lễ phép, có lễ độ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>loud</original>
+<phonetic>/laud/ -adj</phonetic>
+<vietnamese>to, ầm ĩ, inh ỏi </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>coward</original>
+<phonetic>/'kauəd/ -n</phonetic>
+<vietnamese>nhát gan, nhút nhát</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>cheerful</original>
+<phonetic>/'tʃjəful/ -adj</phonetic>
+<vietnamese>vui mừng, phấn khởi</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>cruel</original>
+<phonetic>/'kruili/ -adj</phonetic>
+<vietnamese>độc ác, dữ tợn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>calm</original>
+<phonetic>/kɑ:m/</phonetic>
+<vietnamese>êm đềm, lặng gió (thời tiết); </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>untidy</original>
+<phonetic>/n'taidi/ -adj</phonetic>
+<vietnamese>xốc xếch, lôi thôi</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>nasty</original>
+<phonetic>/'nɑ:sti/ -adj</phonetic>
+<vietnamese>bẩn thỉu; dơ dáy</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>grumpy</original>
+<phonetic>/'grʌmpiʃ/ -adj</phonetic>
+<vietnamese>gắt gỏng; cục cằn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>anxious</original>
+<phonetic>/'æɳkʃəs/ -adj</phonetic>
+<vietnamese>áy náy, lo âu</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>selfish</original>
+<phonetic>/'selfiʃ/ -adj</phonetic>
+<vietnamese>ích kỷ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>deserve</original>
+<phonetic>/di'zə:v/ -v</phonetic>
+<vietnamese>đáng, xứng đáng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>celebrate</original>
+<phonetic>/'selibretid/ -v</phonetic>
+<vietnamese> làm lễ kỷ niệm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>clinic</original>
+<phonetic>/'klinik/ -n</phonetic>
+<vietnamese>phòng khám </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>advantage</original>
+<phonetic>/əb'vɑ:ntidʤ/ -n</phonetic>
+<vietnamese>sự thuận lợi, lợi thế</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>cholesterol</original>
+<phonetic>/kəˈlestərɒl/</phonetic>
+<vietnamese>chất béo gây xơ cứng động mạch</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>demonstration</original>
+<phonetic>/,deməns'treiʃn/ -n</phonetic>
+<vietnamese>sự thể hiện, sự biểu hiện</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>sincerely</original>
+<phonetic>/sin'siəli/</phonetic>
+<vietnamese>chân thành, trân trọng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>reward</original>
+<phonetic>/ri'wɔ:d/ -v</phonetic>
+<vietnamese>thưởng, báo ơn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>movement</original>
+<phonetic>/'mu:vmənt/ -n</phonetic>
+<vietnamese>sự chuyển động, sự vận động</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>Rush hour</original>
+<phonetic>rush-hour</phonetic>
+<vietnamese>giờ cao điểm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>commute</original>
+<phonetic>/kə'mju:t/ -v</phonetic>
+<vietnamese>đi làm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>journey</original>
+<phonetic>/'dʤə:ni/ -n</phonetic>
+<vietnamese>cuộc hành trình </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>surround</original>
+<phonetic>/sə'raundiɳ/ -v</phonetic>
+<vietnamese>bao quanh, vây quanh</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>aircraft</original>
+<phonetic>/'eəkrɑ:ft/ -n</phonetic>
+<vietnamese>máy bay, tàu bay</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>depart</original>
+<phonetic>/di'pɑ:t/ -v</phonetic>
+<vietnamese>ra đi, khởi hành</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>passenger</original>
+<phonetic>/'pæsindʤə/ -n</phonetic>
+<vietnamese> hành khách </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>arrive</original>
+<phonetic>/ə'raiv/ -v</phonetic>
+<vietnamese>đi đến, đạt tới</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>cent</original>
+<phonetic>/sent/</phonetic>
+<vietnamese>đồng xu </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>crowded</original>
+<phonetic>/'kraudid/ -adj</phonetic>
+<vietnamese>đông đúc</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>inception</original>
+<phonetic>/in'sepʃn/ -n</phonetic>
+<vietnamese>sự khởi đầu, sự bắt đầu</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>transition</original>
+<phonetic>/træn'siʤn/ -n</phonetic>
+<vietnamese>sự chuyển tiếp</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>vinegar</original>
+<phonetic>/'vinigə/ -n</phonetic>
+<vietnamese>giấm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>itchy</original>
+<phonetic>/'itʃi/ -adj</phonetic>
+<vietnamese>ngứa; làm ngứa</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>rig</original>
+<phonetic>/rig/ -n</phonetic>
+<vietnamese>giàn khoan</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>dig</original>
+<phonetic>/dig/ -n</phonetic>
+<vietnamese>đào bới, xới</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>dip</original>
+<phonetic>/dip/ -v -n</phonetic>
+<vietnamese>nhúng, ngâm, nhận chìm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>dome</original>
+<phonetic>/doum/ -n -v</phonetic>
+<vietnamese>vòm, vòng che</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>deal</original>
+<phonetic>/di:l/</phonetic>
+<vietnamese>thỏa thuận</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>deck</original>
+<phonetic>/dek/</phonetic>
+<vietnamese>boong tàu, sàn tàu</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>rug</original>
+<phonetic>/rug/ -n</phonetic>
+<vietnamese>thảm </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>rim</original>
+<phonetic>/rim/ -n</phonetic>
+<vietnamese>vành (bánh xe)</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>generally</original>
+<phonetic>/'dʤenərəli/</phonetic>
+<vietnamese>nói chung, đại thể</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>financial</original>
+<phonetic>/fai'nænʃəl/ -adj</phonetic>
+<vietnamese>tài chính, về tài chính</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>purse</original>
+<phonetic>/pə:s/</phonetic>
+<vietnamese>túi xách, ví tiền (nữ)</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>cheque</original>
+<phonetic>/tʃek/ -n</phonetic>
+<vietnamese>tờ séc</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>clerk</original>
+<phonetic>/klɑ:k/ -n</phonetic>
+<vietnamese>thư ký ngân hàng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>metal</original>
+<phonetic>/'metl/ -n</phonetic>
+<vietnamese>kim loại</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>owe</original>
+<phonetic>/ou/ -v</phonetic>
+<vietnamese>nợ, hàm ơn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>counterfeit</original>
+<phonetic>/ˈkaʊntəfɪt/ -n -adj -v</phonetic>
+<vietnamese>vật giả, làm giả mạo</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>cause</original>
+<phonetic>/kɔ:z/ -v</phonetic>
+<vietnamese>gây ra, gây nên</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>evil</original>
+<phonetic>/'i:vl/ -n</phonetic>
+<vietnamese>xấu, ác</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>visual</original>
+<phonetic>/'vizjuəl/ -adj</phonetic>
+<vietnamese>nhìn, thị giác</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>British</original>
+<phonetic>/'britiʃ/ -n</phonetic>
+<vietnamese>người Anh</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>enjoy</original>
+<phonetic>/in'dʤɔi/ -v</phonetic>
+<vietnamese>thích thú, khoái </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>exciting</original>
+<phonetic>/ik'saitiɳ/ -adj</phonetic>
+<vietnamese>hứng thú, lý thú</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>resignation</original>
+<phonetic>/,rezig'neiʃn/ -n</phonetic>
+<vietnamese>sự từ chức; đơn xin từ chức</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>devise</original>
+<phonetic>/di'vaiz/ -v</phonetic>
+<vietnamese>nghĩ ra, đưa ra</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>rescue</original>
+<phonetic>/'reskju:/ -v -n</phonetic>
+<vietnamese>cứu, giải cứu</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>dialogue</original>
+<phonetic>/'daiəlɔg/ -n</phonetic>
+<vietnamese>cuộc đối thoại</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>partner</original>
+<phonetic>/'pɑ:tnə/ -n</phonetic>
+<vietnamese>người cùng chung phần</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>terrorist</original>
+<phonetic>/'terərist/ -n</phonetic>
+<vietnamese>người khủng bố</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>genre</original>
+<phonetic>/ˈʒɒnrə/ -n</phonetic>
+<vietnamese>loại, thể loại</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>eldest</original>
+<phonetic>/'eldist/ -n</phonetic>
+<vietnamese>con cả</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>clam</original>
+<phonetic>/klæm/ -n</phonetic>
+<vietnamese>ngao, xò - câm như hến</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>deaf</original>
+<phonetic>/def/ -adj</phonetic>
+<vietnamese>điếc</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>fought</original>
+<phonetic>/fɔːt/ -v</phonetic>
+<vietnamese>đấu tranh, chiến đấu</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>death</original>
+<phonetic>/deθ/ -n</phonetic>
+<vietnamese>sự chết; cái chết</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>thaw</original>
+<phonetic>/θɔ:/ -v</phonetic>
+<vietnamese>làm tan chảy</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>thin</original>
+<phonetic>/θin/ -adj</phonetic>
+<vietnamese>mỏng, mảnh</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>thirst</original>
+<phonetic>/θə:st/ -n</phonetic>
+<vietnamese>sự khát nước</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>fresh</original>
+<phonetic>/freʃ/ -adj</phonetic>
+<vietnamese>tươi tắn, mơn mởn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>thrill</original>
+<phonetic>/θril/ -v</phonetic>
+<vietnamese>làm rùng mình, làm run lên</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>fang</original>
+<phonetic>/fæɳ/ -n</phonetic>
+<vietnamese>răng nanh </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>fret</original>
+<phonetic>/fret/ -v</phonetic>
+<vietnamese>phiền muộn, buồn phiền</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>threat</original>
+<phonetic>/θret/ -n</phonetic>
+<vietnamese>sự đe doạ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>nephew</original>
+<phonetic>/'nevju:/ -n</phonetic>
+<vietnamese>cháu trai (con của anh, chị, em)</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>niece</original>
+<phonetic>/ni:s/ -n</phonetic>
+<vietnamese>cháu gái (con của anh, chị, em)</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>stash</original>
+<phonetic>/stæʃ/ -v</phonetic>
+<vietnamese>cất giấu, giấu giếm </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pea</original>
+<phonetic>/pi:/ -n</phonetic>
+<vietnamese>đậu Hà-lan; đậu</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>beg</original>
+<phonetic>/beg/ -v</phonetic>
+<vietnamese>ăn xin, xin</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>trolley</original>
+<phonetic>/'trɔli/ -n</phonetic>
+<vietnamese>xe đẩy tay(trong sieu thi)</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>grocery</original>
+<phonetic>/'grousəri/ -n</phonetic>
+<vietnamese>cửa hàng tạp phẩm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>bakery</original>
+<phonetic>/'beikəri/ -n</phonetic>
+<vietnamese>lò bánh mì</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>excel</original>
+<phonetic>/ik'sel/ -v</phonetic>
+<vietnamese>hơn, trội hơn </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>slam</original>
+<phonetic>/slæm/ -v</phonetic>
+<vietnamese>đóng sầm </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>retail</original>
+<phonetic>/'ri:teil/ -n</phonetic>
+<vietnamese>sự bán lẻ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>swipe</original>
+<phonetic>/swaip/ -v</phonetic>
+<vietnamese>vuốt, quẹt</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>expensive</original>
+<phonetic>/iks'pensiv/ -adj</phonetic>
+<vietnamese>đắt tiền</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>frost</original>
+<phonetic>/frɔst/ -n</phonetic>
+<vietnamese>sự đông giá</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>plant</original>
+<phonetic>/plɑ:nt/ -n</phonetic>
+<vietnamese>thực vật, cây (nhỏ)</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>nursery</original>
+<phonetic>/'nə:sri/ -n</phonetic>
+<vietnamese>nhà trẻ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>irony</original>
+<phonetic>/'aiəni/ -n</phonetic>
+<vietnamese>sự mỉa, sự mỉa mai</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>minus</original>
+<phonetic>/'mainəs/ -n</phonetic>
+<vietnamese>trừ (âm 10, -10)</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>scenario</original>
+<phonetic>/si'nɑ:riou/ -n</phonetic>
+<vietnamese>kịch bản</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>lodging</original>
+<phonetic>/'lɔdʤiɳ/ -n</phonetic>
+<vietnamese>chỗ trọ, chỗ tạm trú</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>slipper</original>
+<phonetic>/'slipə/ -n</phonetic>
+<vietnamese>dép đi trong nhà, dép lê</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>kettle</original>
+<phonetic>/'ketl/ -n</phonetic>
+<vietnamese>ấm đun nước</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pillow</original>
+<phonetic>/'pilou/ -n</phonetic>
+<vietnamese>gối</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>toiletries</original>
+<phonetic>/ˈtɔɪlətriz/ -n</phonetic>
+<vietnamese>vật dụng dùng khi tắm rửa </vietnamese>
+<example>example</example>
+<flag>0</flag>
+</word>
+<word>
+<original>air conditioning</original>
+<phonetic>/'eəkən,diʃəniɳ/ -n</phonetic>
+<vietnamese>điều hoà không khí</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>laundry</original>
+<phonetic>/'lɔ:ndri/ -n</phonetic>
+<vietnamese>hiệu giặt ủi</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>lobby</original>
+<phonetic>/'lɔbi/ -n</phonetic>
+<vietnamese>hành lang</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>maid</original>
+<phonetic>/meid/ -n</phonetic>
+<vietnamese>đầy tớ gái, người hầu gái</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>baggage</original>
+<phonetic>/ˈbæɡɪdʒ/ -n</phonetic>
+<vietnamese>hành lý</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>linen</original>
+<phonetic>/'linin/ -n</phonetic>
+<vietnamese>đồ vải lanh (khăn bàn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>vacancy</original>
+<phonetic>/'veikənsi/ -n</phonetic>
+<vietnamese>tình trạng trống rỗng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>downtown</original>
+<phonetic>/'dauntaun/ -n</phonetic>
+<vietnamese>trung tâm thành phố</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>cart</original>
+<phonetic>/kɑ:t/ -n</phonetic>
+<vietnamese>xe đẩy </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>sheet</original>
+<phonetic>/ʃi:t/ -n</phonetic>
+<vietnamese>lá, tấm, phiến, tờ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>capacity</original>
+<phonetic>/kə'pæsiti/ -n</phonetic>
+<vietnamese>sức chứa, chứa đựng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>reservation</original>
+<phonetic>/,rezə'veiʃn/</phonetic>
+<vietnamese>đặt chổ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>railway</original>
+<phonetic>/'reilwei/ -n</phonetic>
+<vietnamese>đường sắt, đường xe lửa</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>bite</original>
+<phonetic>/bait/ -v -n</phonetic>
+<vietnamese>cắn, ngoạm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>tongue</original>
+<phonetic>/tʌɳ/ -n</phonetic>
+<vietnamese>cái lưỡi</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>breath</original>
+<phonetic>/breθ/ -n</phonetic>
+<vietnamese>hơi thở, hơi</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>vision</original>
+<phonetic>/'viʤn/ -n</phonetic>
+<vietnamese>tầm nhìn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>analyst</original>
+<phonetic>/'ænəlist/ -n</phonetic>
+<vietnamese>người phân tích</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>usage</original>
+<phonetic>/ˈjuːsɪdʒ/ -n</phonetic>
+<vietnamese>cách dùng, cách sử dụng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>via</original>
+<phonetic>/vaiə/ -preposition</phonetic>
+<vietnamese>qua, theo đường</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>indeed</original>
+<phonetic>/in'di:d/ -adverb</phonetic>
+<vietnamese>thật vậy, thực là</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>integration</original>
+<phonetic>/ˌɪntɪˈɡreɪʃən/ -n</phonetic>
+<vietnamese>thống nhất, sự hợp nhất</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>enhance</original>
+<phonetic>/in'hɑ:ns/ -v</phonetic>
+<vietnamese>nâng cao, tăng cường</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>guarantee</original>
+<phonetic>/,gærən'ti:/ -v</phonetic>
+<vietnamese>hứa bảo đảm, cam đoan</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>courthouse</original>
+<phonetic>/ˈkɔːthaʊs/ -n</phonetic>
+<vietnamese>tòa án</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>awful</original>
+<phonetic>/'ɔ:ful/ -adj</phonetic>
+<vietnamese>dễ sợ, khủng khiếp</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>stinky</original>
+<phonetic>/ˈstɪŋki/ -adj</phonetic>
+<vietnamese>hôi thối</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>sink</original>
+<phonetic>/siɳk/ -n</phonetic>
+<vietnamese>bồn rửa</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>abusive</original>
+<phonetic>/ə'bju:siv/ -adj</phonetic>
+<vietnamese> lăng mạ ~ (insult)</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>proud</original>
+<phonetic>/proud/ -adj</phonetic>
+<vietnamese>tự hào; hãnh diện</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>ought</original>
+<phonetic>/ɔ:t/ -auxiliary verb</phonetic>
+<vietnamese>thực sự nên</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>interfere</original>
+<phonetic>/,intə'fiə/ -v</phonetic>
+<vietnamese>gây trở ngại, quấy rầy</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pregnant</original>
+<phonetic>/'pregnənt/ -adj</phonetic>
+<vietnamese>có thai, có mang thai</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>gather</original>
+<phonetic>/'gæðə/ -v</phonetic>
+<vietnamese>tập hợp, tụ họp lại</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>adventure</original>
+<phonetic>/əd'ventʃə/ -v -n</phonetic>
+<vietnamese>phiêu lưu, mạo hiểm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>postpone</original>
+<phonetic>/poust'poun/ -v</phonetic>
+<vietnamese>hoãn lại</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>survive</original>
+<phonetic>/sə'vaivə/ -v</phonetic>
+<vietnamese>sống sót, còn lại, tồn tại</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>delicious</original>
+<phonetic>/di'liʃəs/ -adj</phonetic>
+<vietnamese>thơm tho, ngon ngọt,</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>dessert</original>
+<phonetic>/di'zə:t/ -n</phonetic>
+<vietnamese>món tráng miệng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>meditate</original>
+<phonetic>/'mediteit/ -v</phonetic>
+<vietnamese>ngẫm nghĩ, suy ngâm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>artificial</original>
+<phonetic>/,ɑ:ti'fiʃəl/ -adj</phonetic>
+<vietnamese>nhân tạo</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>intelligence</original>
+<phonetic>/in'telidʤəns/ -n</phonetic>
+<vietnamese>sự hiểu biết, tri thức.</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pursue</original>
+<phonetic>/pə'sju:/ -v</phonetic>
+<vietnamese>đuổi theo, đuổi bắt</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>confident</original>
+<phonetic>/'kɔnfidənt/ -adj</phonetic>
+<vietnamese>tự tin, tin tưởng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>underestimate</original>
+<phonetic>/'ʌndər'estimeit/ -v</phonetic>
+<vietnamese>đánh giá thấp</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>strange</original>
+<phonetic>/streindʤ/ -adj</phonetic>
+<vietnamese>kỳ lạ, kỳ dị, kỳ quặc</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>leaflet</original>
+<phonetic>/'li:flit/ -n</phonetic>
+<vietnamese>tờ truyền đơn, tờ quảng cáo</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>association</original>
+<phonetic>/ə,sousi'eiʃn/ -n</phonetic>
+<vietnamese>sự kết hợp, sự liên hợp</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>dependency</original>
+<phonetic>/di'pendənsi/ -n</phonetic>
+<vietnamese>lệ thuộc, phần phụ thuộc</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>aggregation</original>
+<phonetic>/,ægri'geiʃn/ -n</phonetic>
+<vietnamese>sự tập hợp, sự kết hợp</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>composition</original>
+<phonetic>/,kɔmpə'ziʃn/ -n</phonetic>
+<vietnamese>sự hợp thành, sự cấu thành</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>briefly</original>
+<phonetic>/'bri:fli/</phonetic>
+<vietnamese>ngắn gọn, vắn tắt</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>originally</original>
+<phonetic>/ə'ridʤnəli/</phonetic>
+<vietnamese>bắt đầu, khởi đầu,</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>suspect</original>
+<phonetic>/'sʌspekt/ -v -adj</phonetic>
+<vietnamese>nghi ngờ, hoài nghi</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>thorough</original>
+<phonetic>/'θʌrə/ -adj</phonetic>
+<vietnamese>hoàn toàn, toàn diện</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pulse</original>
+<phonetic>/pʌls/ -n</phonetic>
+<vietnamese>mạch, nhịp tim</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>scale</original>
+<phonetic>/skeil/ -n</phonetic>
+<vietnamese>tỉ lệ, quy mô</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>stethoscope</original>
+<phonetic>/'steθəskoup/ -n</phonetic>
+<vietnamese>ống nghe của bác sỉ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>prescription</original>
+<phonetic>/prɪˈskrɪpʃən/ -n</phonetic>
+<vietnamese>đơn thuốc</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>paramedic</original>
+<phonetic>/ˌpærəˈmedɪk/ -n</phonetic>
+<vietnamese>nhân viên y tế, cứu thương</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>midwife</original>
+<phonetic>/'midwaif/ -n</phonetic>
+<vietnamese>bà đỡ, bà mụ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>surgeon</original>
+<phonetic>/'sə:dʤən/ -n</phonetic>
+<vietnamese>bác sĩ phẫu thuật</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pharmacist</original>
+<phonetic>/'fɑ:məsist/ -n</phonetic>
+<vietnamese>dược sĩ; người buôn dược phẩm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>specialize</original>
+<phonetic>/ˈspeʃəlaɪz/ -v</phonetic>
+<vietnamese>chuyên môn, chuyền làm về</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>disease</original>
+<phonetic>/di'zi:z/ -n</phonetic>
+<vietnamese>bệnh đã đc chuẩn đoán</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>treat</original>
+<phonetic>/triːt/ -v</phonetic>
+<vietnamese>đối xử, đối đãi</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>technician</original>
+<phonetic>/tekˈnɪʃən/ -n</phonetic>
+<vietnamese>kỹ thuật viên</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>fever</original>
+<phonetic>/'fi:və/ -n</phonetic>
+<vietnamese>bệnh sốt</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>cough</original>
+<phonetic>/kɔf/ -n</phonetic>
+<vietnamese>chứng ho</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>diabetes</original>
+<phonetic>/,daiə'bi:tiz/ -n</phonetic>
+<vietnamese>bệnh đái đường</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>canteen</original>
+<phonetic>/kæn'ti:n/ -n</phonetic>
+<vietnamese>căng tin</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>needle</original>
+<phonetic>/'ni:dl/ -n</phonetic>
+<vietnamese>cái kim, kim </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>injection</original>
+<phonetic>/in'dʤekʃn/ -n</phonetic>
+<vietnamese>chất tiêm, thuốc tiêm </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>surgery</original>
+<phonetic>/'sə:dʤəri/ -n</phonetic>
+<vietnamese>sự mổ xẻ, phẩu thuật</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>symptom</original>
+<phonetic>/ˈsɪmptəm/ -n</phonetic>
+<vietnamese>dấu hiệu, triệu chứng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>infection</original>
+<phonetic>/in'fekʃn/ -n</phonetic>
+<vietnamese>nhiễm trùng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>addictive</original>
+<phonetic>/əˈdɪktɪv/ -adj</phonetic>
+<vietnamese>gây nghiện</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>annoy</original>
+<phonetic>/əˈnɔɪ/ -v</phonetic>
+<vietnamese>quấy rầy, làm phiền</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>depress</original>
+<phonetic>/dɪˈpres/ -v</phonetic>
+<vietnamese>làm chán nản, làm ngã lòng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>rare</original>
+<phonetic>/reə/ -adj</phonetic>
+<vietnamese>hiếm, hiếm có, ít có</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>occasion</original>
+<phonetic>/ə'keiʤn/ -n</phonetic>
+<vietnamese>dịp, cơ hội</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>contestant</original>
+<phonetic>/kən'testənt/ -n</phonetic>
+<vietnamese>đấu thủ, đối thủ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>fictional</original>
+<phonetic>/'fikʃənl/ -adj</phonetic>
+<vietnamese>hư cấu, tưởng tượng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>humorous</original>
+<phonetic>/ˈhjuːmərəs/ -adj</phonetic>
+<vietnamese>khôi hài, hài hước</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>arrogant</original>
+<phonetic>/'ærəgənt/ -adj</phonetic>
+<vietnamese>kiêu ngạo, kiêu căng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>deceiful</original>
+<phonetic>/di'si:tful/ -adj</phonetic>
+<vietnamese>dối trá, lừa dối</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>diligent</original>
+<phonetic>/'dilidʤənt/ -adj</phonetic>
+<vietnamese>siêng năng, cần cù</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>meticulous</original>
+<phonetic>/mi'tikjuləs/ -adj</phonetic>
+<vietnamese>tỉ mỉ, quá kỹ càng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>idiot</original>
+<phonetic>/'idiət/ -n</phonetic>
+<vietnamese>thằng ngốc</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>modest</original>
+<phonetic>/ˈmɒdɪst/ -adj</phonetic>
+<vietnamese>khiêm tốn, nhún nhường</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>devious</original>
+<phonetic>/'di:vjəs/ -adj</phonetic>
+<vietnamese>xa xôi, hẻo lánh</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>bashful</original>
+<phonetic>/'bæʃful/ -adj</phonetic>
+<vietnamese>rụt rè, bẽn lẽn, e lệ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>extroverted</original>
+<phonetic>/ˈekstrəvɜːtɪd/ -adj</phonetic>
+<vietnamese>hướng ngoại</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>energetic</original>
+<phonetic>/,enə'dʤetik/ -adj</phonetic>
+<vietnamese> mạnh mẽ, mãnh liệt</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pick</original>
+<phonetic>/pik/ -v</phonetic>
+<vietnamese>chọn lọc</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>perceive</original>
+<phonetic>/pə'si:v/ -v</phonetic>
+<vietnamese>hiểu, nhận thức</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>satisfy</original>
+<phonetic>/'sætisfai/ -v</phonetic>
+<vietnamese>làm thoả mãn, làm vừa lòng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>thrifty</original>
+<phonetic>/'θrifti/ -adj</phonetic>
+<vietnamese>tiết kiệm, tằn tiện</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>nervous</original>
+<phonetic>/ˈnɜːvəs/ -adj</phonetic>
+<vietnamese>lo lắng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>comical</original>
+<phonetic>/'kɔmikəl/</phonetic>
+<vietnamese>hài hước, khôi hài</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>trustworthy</original>
+<phonetic>/'trʌst,wə:ði/ -adj</phonetic>
+<vietnamese>đáng tin cậy</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>deceitful</original>
+<phonetic>/dɪˈsiːtfəl/ -adj</phonetic>
+<vietnamese>dối trá, lừa dối</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>ambition</original>
+<phonetic>/æm'biʃn/ -n</phonetic>
+<vietnamese>hoài bão, khát vọng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>friendship</original>
+<phonetic>/'frendʃip/ -n</phonetic>
+<vietnamese>tình bạn, tình hữu nghị</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>self-esteem</original>
+<phonetic>/'selfis'ti:m/</phonetic>
+<vietnamese>lòng tự trọng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>affectionate</original>
+<phonetic>/ə'fekʃnit/ -adj</phonetic>
+<vietnamese>tình cảm, triều mếm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>introverted</original>
+<phonetic>/,introu'və:t/ -adj</phonetic>
+<vietnamese>người nhút nhát</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>courageous</original>
+<phonetic>/kə'reidʤəs/ -adj</phonetic>
+<vietnamese>can đảm, dũng cảm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pleasant</original>
+<phonetic>/'pleznt/ -adj</phonetic>
+<vietnamese>vui vẻ, dễ thương </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>dependable</original>
+<phonetic>/dɪˈpendəbəl/ -adj</phonetic>
+<vietnamese>có thể tin được, đáng tin cậy</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>sociable</original>
+<phonetic>/'souʃəbl/ -adj</phonetic>
+<vietnamese>dễ gần, dễ chan hoà</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>childish</original>
+<phonetic>/'tʃaildiʃ/ -adj</phonetic>
+<vietnamese> của trẻ con; như trẻ con</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>playful</original>
+<phonetic>/'pleiful/ -adj</phonetic>
+<vietnamese>hay vui đùa, hay đùa</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>cheapskate</original>
+<phonetic>/ˈtʃiːpskeɪt/ -n</phonetic>
+<vietnamese>người keo kiệt</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>busybody</original>
+<phonetic>/ˈbɪziˌbɒdi/ -n</phonetic>
+<vietnamese>hay xem vào chuyện khác</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>down-to-earth</original>
+<phonetic>/,dauntə'ə:θ/ -adj</phonetic>
+<vietnamese>thực tế, không viển vông</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>wet blanket</original>
+<phonetic>wet blanket -n</phonetic>
+<vietnamese>kẻ phá đám</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>represent</original>
+<phonetic>/,repri'zent/ -v</phonetic>
+<vietnamese>thay mặt, đại diện</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>household</original>
+<phonetic>/'haushould/ -n</phonetic>
+<vietnamese>hộ, gia đình</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>reproduce</original>
+<phonetic>/,ri:prə'dju:s/ -v</phonetic>
+<vietnamese>tái sản xuất, hồi sinh</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>elementary</original>
+<phonetic>/,eli'mentəri/ -n</phonetic>
+<vietnamese>cơ bản, sơ yếu</vietnamese>
+<example>exampleer</example>
+<flag>1</flag>
+</word>
+<word>
+<original>beyond</original>
+<phonetic>/bi'jɔnd/ -adverd</phonetic>
+<vietnamese>quá, vượt xa hơn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>raise</original>
+<phonetic>/reiz/ -v</phonetic>
+<vietnamese>nâng lên, đỡ dậy</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>divorced</original>
+<phonetic>/dəˈvɔːst/ -adj</phonetic>
+<vietnamese>đã ly dị</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>get along</original>
+<phonetic>get along -phrasal verb</phonetic>
+<vietnamese>hoà thuận với nhau</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>eventually</original>
+<phonetic>/i'ventjuəli/</phonetic>
+<vietnamese>cuối cùng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>deceive</original>
+<phonetic>/di'si:v/ -v</phonetic>
+<vietnamese>lừa dối, đánh lừa</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>admit</original>
+<phonetic>/əd'mit/ -v</phonetic>
+<vietnamese>nhận, thừa nhận;</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>invent</original>
+<phonetic>/in'vent/ -v</phonetic>
+<vietnamese>phát minh, sáng chế</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>argue</original>
+<phonetic>/'ɑ:gju:/ -v</phonetic>
+<vietnamese>tranh cãi, tranh luận</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>divorce</original>
+<phonetic>/di'vɔ:s/ -v</phonetic>
+<vietnamese>ly dị</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>engaged</original>
+<phonetic>/in'geidʤd/ -adj</phonetic>
+<vietnamese>đã đính ước, đã hứa hôn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>honeymoon</original>
+<phonetic>/'hʌnimu:n/ -n</phonetic>
+<vietnamese>hưởng tuần trăng mật</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>engagement</original>
+<phonetic>/in'geidʤmənt/ -n</phonetic>
+<vietnamese>sự hứa hẹn, sự ước hẹn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>breadwinner</original>
+<phonetic>/ˈbredˌwɪnə $ -ər/ -n</phonetic>
+<vietnamese>lao động chính có thu nhập</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>chief</original>
+<phonetic>/tʃi:f/ -n</phonetic>
+<vietnamese>thủ lĩnh, lãnh tụ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>treasurer</original>
+<phonetic>/'treʤərə/ -n</phonetic>
+<vietnamese>người thủ quỹ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>chore</original>
+<phonetic>/tʃɔ:/ -n</phonetic>
+<vietnamese>công việc vặt trong nhà</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>assign</original>
+<phonetic>/əˈsaɪn/ -v</phonetic>
+<vietnamese>phân công</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>truly</original>
+<phonetic>/'tru:li/</phonetic>
+<vietnamese>thật, sự thật, đúng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>emphasize</original>
+<phonetic>/ˈemfəsaɪz/ -v</phonetic>
+<vietnamese>nhấn mạnh</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>intend</original>
+<phonetic>/in'tend/ -v</phonetic>
+<vietnamese>định, có ý định, có ý muốn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>proven</original>
+<phonetic>/'pru:vən/ -v</phonetic>
+<vietnamese>chứng tỏ, chứng minh</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>supply</original>
+<phonetic>/sə'plai/ -n</phonetic>
+<vietnamese>sự cung cấp, sự tiếp tế</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>occupy</original>
+<phonetic> /'ɔkjupai/ -v</phonetic>
+<vietnamese>chiếm, chiếm đóng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>occupation</original>
+<phonetic>/,ɔkju'peiʃn/ -n</phonetic>
+<vietnamese>nghề nghiệp; công việc</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>seamstress</original>
+<phonetic>/ˈsiːmstrəs/ -n</phonetic>
+<vietnamese>cô thợ may</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>carpenter</original>
+<phonetic>/'kɑ:pintə/ -n</phonetic>
+<vietnamese>làm nghề thợ mộc</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>fired</original>
+<phonetic>/'faie/</phonetic>
+<vietnamese>bị sa thải</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>promotion</original>
+<phonetic>/prəˈməʊʃən/ -n</phonetic>
+<vietnamese> sự thăng chức</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>resume</original>
+<phonetic>/ri'zju:m/ -v</phonetic>
+<vietnamese>lấy lại, chiếm lại, hồi phục lại</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>lay off</original>
+<phonetic>lay off</phonetic>
+<vietnamese>Sa thải</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>respect</original>
+<phonetic>/ris'pekt/</phonetic>
+<vietnamese>sự tôn trọng, sự kính trọng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>prediction</original>
+<phonetic>/pri'dikʃn/ -n</phonetic>
+<vietnamese>sự nói trước; sự đoán trước</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>spill</original>
+<phonetic>/spil/ -v</phonetic>
+<vietnamese>tràn ra, chảy ra, đổ ra </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>deprecate</original>
+<phonetic>/'deprikeit/ -v</phonetic>
+<vietnamese>phản đối, không tán thành</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>discipline</original>
+<phonetic>/'disiplin/ -n</phonetic>
+<vietnamese>kỷ luật</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>procedure</original>
+<phonetic>/prəˈsiːdʒər/ -n</phonetic>
+<vietnamese>thủ tục</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>cushion</original>
+<phonetic>/'kuʃn/ -n</phonetic>
+<vietnamese>cái đệm, cái gối</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>vegetable</original>
+<phonetic>/'vedʤitəbl/ -n</phonetic>
+<vietnamese>rau</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>lettuce</original>
+<phonetic>/'letis/ -n</phonetic>
+<vietnamese>rau diếp</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>chilly</original>
+<phonetic>/'tʃili/ -n -adj</phonetic>
+<vietnamese>lạnh lẽo</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>admire</original>
+<phonetic>/əd'maiə/ -v</phonetic>
+<vietnamese>khâm phục</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pajamas</original>
+<phonetic> /pə'dʤɑ:məz/ -n</phonetic>
+<vietnamese>quần áo ngủ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>terrible</original>
+<phonetic>/'terəbl/ -adj</phonetic>
+<vietnamese>khủng khiếp</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>recognize</original>
+<phonetic>/'rekəgnaiz/ -v</phonetic>
+<vietnamese>công nhận, thừa nhận</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>attempt</original>
+<phonetic>/ə'tempt/ -n</phonetic>
+<vietnamese>sự cố gắng, sự thử</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>characteristic</original>
+<phonetic>/,kæriktə'ristik/ -n</phonetic>
+<vietnamese>đặc tính, đặc điểm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>tangible</original>
+<phonetic>/'tændʤəbl/ -adj</phonetic>
+<vietnamese>vật hữu hình</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>emphasis</original>
+<phonetic>/'emfəsis/ -n</phonetic>
+<vietnamese>sự nhấn mạnh</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>elaborate</original>
+<phonetic>/i'læbərit/ -adj</phonetic>
+<vietnamese>phức tạp, tỉ mỉ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>reduction</original>
+<phonetic>/ri'dʌkʃn/ -n</phonetic>
+<vietnamese>sự thu nhỏ, sự giảm bớt</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>weakness</original>
+<phonetic>/'wi:knis/ -n</phonetic>
+<vietnamese>điểm yếu, nhược điểm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pure</original>
+<phonetic> /pjuə/ -adj</phonetic>
+<vietnamese>thuần tuý</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>arise</original>
+<phonetic>/ə'raiz/ -v</phonetic>
+<vietnamese>nảy sinh ra</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>corporation</original>
+<phonetic>/,kɔ:pə'reiʃn/ -n</phonetic>
+<vietnamese>tập đoàn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>prescriptive</original>
+<phonetic>/pris'kriptiv/ -adj</phonetic>
+<vietnamese>ra lệnh, qui định</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>concrete</original>
+<phonetic>/'kɔnkri:t/ -adj</phonetic>
+<vietnamese>cụ thể</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>specific</original>
+<phonetic>/spi'sifik/ -adj</phonetic>
+<vietnamese>dứt khoát, rành mạch</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>achieve</original>
+<phonetic> /ə'tʃi:v/ -v</phonetic>
+<vietnamese>đạt được, giành được</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>categorize</original>
+<phonetic>/'kætigəraiz/ -v</phonetic>
+<vietnamese> chia loại, phân loại</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>analysis</original>
+<phonetic>/ə'næləsis/ -n</phonetic>
+<vietnamese>sự phân tích</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>present</original>
+<phonetic>/pri'zent/ -v</phonetic>
+<vietnamese>đưa ra, bày ra</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>essence</original>
+<phonetic>/'esns/ -n</phonetic>
+<vietnamese>bản chất, thực chất</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>stove</original>
+<phonetic>/stouv/ -n</phonetic>
+<vietnamese>cái lò</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>consistent</original>
+<phonetic>/kən'sistənt/ -adj</phonetic>
+<vietnamese>phù hợp, thích hợp</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>organization</original>
+<phonetic>/,ɔ:gənai'zeiʃn/ -n</phonetic>
+<vietnamese>tổ chức, cơ quan</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>readily</original>
+<phonetic>/'redili/ -adj</phonetic>
+<vietnamese>vui lòng, sẵn lòng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>capable</original>
+<phonetic>/'keipəbl/ -adj</phonetic>
+<vietnamese>có tài, có năng lực </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>interpret</original>
+<phonetic>/in'tə:prit/ -v</phonetic>
+<vietnamese>giải thích vấn đề từ 1 quan điểm</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>clarify</original>
+<phonetic>/'klærifai/ -v</phonetic>
+<vietnamese>làm cho dễ hiểu</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>keep up with</original>
+<phonetic>/ki:p/</phonetic>
+<vietnamese> tiếp tục làm điều gì đó</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>trick</original>
+<phonetic>/trik/ -n</phonetic>
+<vietnamese>mưu mẹo</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>obtain</original>
+<phonetic>/əb'tein/ -n</phonetic>
+<vietnamese>đạt được, có đc gì ko mật nhiều sức</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>attain</original>
+<phonetic>/ə'tein/ -v</phonetic>
+<vietnamese>đạt tới, bỏ công sức để đạt tới</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>substitute</original>
+<phonetic> /'sʌbstitju:t/ -n -v</phonetic>
+<vietnamese>thay thế, thay đổi vị trí người/vật khác với replace là dẹp luôn</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>faith</original>
+<phonetic>/feiθ/ -n</phonetic>
+<vietnamese>sự tin tưởng, sự tin cậy</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>minister</original>
+<phonetic>/'ministə/ -n</phonetic>
+<vietnamese> bộ trưởng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>halves</original>
+<phonetic>/hɑ:f/ -n</phonetic>
+<vietnamese>nửa, phân chia đôi</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>disturb</original>
+<phonetic>/dis'tə:b/ -v</phonetic>
+<vietnamese>làm mất yên tĩnh</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>suddenly</original>
+<phonetic>/ˈsʌdnli/ -adverb</phonetic>
+<vietnamese>một cách bất ngờ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>slightly</original>
+<phonetic>/'slaitiɳli/ -adverb</phonetic>
+<vietnamese>mỏng mảnh, yếu ớt</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>bitter</original>
+<phonetic>/'bitə/ -adj</phonetic>
+<vietnamese>cay đắng, chua x</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>meat</original>
+<phonetic>/mi:t/ -n</phonetic>
+<vietnamese>thịt</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>upset</original>
+<phonetic>/p'set/ -v</phonetic>
+<vietnamese>làm khó chịu</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>congestion</original>
+<phonetic>/kən'dʤestʃn/ -n</phonetic>
+<vietnamese>sự đông nghịt, sự tắt nghẽn </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>repetition</original>
+<phonetic>/,repi'tiʃn/ -n</phonetic>
+<vietnamese>sự nhắc lại, sự lặp lại</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>itinerary</original>
+<phonetic>/ai'tinərəri/ -n</phonetic>
+<vietnamese>hành trình, con đường đi</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>trek</original>
+<phonetic>/trek/</phonetic>
+<vietnamese>đoạn đường </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>deluxe</original>
+<phonetic>/dəˈlʌks/ -adj</phonetic>
+<vietnamese>sang trọng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>moderate</original>
+<phonetic>/'mɔdərit/ -adj</phonetic>
+<vietnamese>vừa phải; phải chăng</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>outdoor</original>
+<phonetic>/'autdɔ:/ -adj</phonetic>
+<vietnamese>ngoài trời, ở ngoài</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>badminton</original>
+<phonetic>/'bædmintən/ -n</phonetic>
+<vietnamese>cầu lông</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>Camping</original>
+<phonetic>/kæmp/</phonetic>
+<vietnamese>sự cắm trại</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>cycling</original>
+<phonetic>/'saikliɳ/</phonetic>
+<vietnamese>sự đi xe đạp</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>barbecue</original>
+<phonetic>/'bɑ:bikju:/</phonetic>
+<vietnamese>vỉ để nướng </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>unique</original>
+<phonetic>/ju:'ni:k/</phonetic>
+<vietnamese>duy nhất, đơn nhất</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>town</original>
+<phonetic>/taun/</phonetic>
+<vietnamese> thành phố, thị xã</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pedestrian</original>
+<phonetic>/pi'destriən/</phonetic>
+<vietnamese>người đi bộ</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>festival</original>
+<phonetic>/'festivəl/ -n</phonetic>
+<vietnamese>ngày hội</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>bustling</original>
+<phonetic>/'bʌsl/</phonetic>
+<vietnamese>bữa tiệc linh đình</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>recycling</original>
+<phonetic>/riːˈsaɪklɪŋ/ </phonetic>
+<vietnamese>phục hồi, tái chế </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>assessment</original>
+<phonetic>/ə'sesmənt/</phonetic>
+<vietnamese>sự định giá </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>unforgettable</original>
+<phonetic>/'ʌnfə'getəbl/</phonetic>
+<vietnamese>không thể quên được</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>litter</original>
+<phonetic>/'litə/</phonetic>
+<vietnamese>rác rưởi bừa bãi</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>rubbish</original>
+<phonetic>/'rʌbiʃ/</phonetic>
+<vietnamese>vật bỏ đi, rác rưởi</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>separate</original>
+<phonetic>/'seprit/</phonetic>
+<vietnamese>riêng rẽ, rời</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>discharge</original>
+<phonetic> /dis'tʃɑ:dʤ/</phonetic>
+<vietnamese>thải ra</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>climate</original>
+<phonetic>/'klaimit/</phonetic>
+<vietnamese>khí hậu, thời tiết</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>pollution</original>
+<phonetic>/pə'lu:ʃn/</phonetic>
+<vietnamese>sự làm ô uế,</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>bright</original>
+<phonetic>/brait/</phonetic>
+<vietnamese>sáng, sáng chói</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>worship</original>
+<phonetic>/'wə:ʃip/</phonetic>
+<vietnamese>sự thờ cúng, sự cúng bái</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>lantern</original>
+<phonetic>/'læntən/</phonetic>
+<vietnamese>đèn lồng, đèn xách</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>decorate</original>
+<phonetic>/'dekəreit/ -v</phonetic>
+<vietnamese>trang hoàng, trang trí</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>immediately</original>
+<phonetic>/i'mi:djətli/</phonetic>
+<vietnamese>ngay lập tức, tức thì</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>punish</original>
+<phonetic>/'pʌniʃ/ -v</phonetic>
+<vietnamese>trừng phạt, trừng trị</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>fair</original>
+<phonetic>/feə/ -n</phonetic>
+<vietnamese>hội chợ, chợ phiên</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>exhibition</original>
+<phonetic>/,eksi'biʃn/</phonetic>
+<vietnamese> cuộc triển lãm </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>explosion</original>
+<phonetic>/iks'plouʤn/</phonetic>
+<vietnamese> sự nổ; sự nổ bùng </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>fantastic</original>
+<phonetic>/fæn'tæstik/</phonetic>
+<vietnamese>tuyệt vời</vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+<word>
+<original>heaven</original>
+<phonetic>/'hevn/</phonetic>
+<vietnamese>thiên đường </vietnamese>
+<example>example</example>
+<flag>1</flag>
+</word>
+</Vocabulary>
