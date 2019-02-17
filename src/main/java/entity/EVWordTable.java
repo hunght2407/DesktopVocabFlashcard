@@ -1,39 +1,34 @@
 package entity;
 
-import javafx.scene.text.Text;
-
 public class EVWordTable {
-	private Text txtVocabulary;
-	private Text txtStarred;
+	private String txtVocabulary;
+	private String txtStarred;
 	private int idxVoca;
 
 	public EVWordTable(String strVocabulary, boolean blStarred, int idx) {
-		this.txtVocabulary = new Text();
-		this.txtVocabulary.setText(strVocabulary);
-
-		this.txtStarred = new Text();
+		this.txtVocabulary = strVocabulary;
 		
 		if (blStarred)
-			this.txtStarred.setText("Starred");
+			this.txtStarred = "Starred";
 		else
-			this.txtStarred.setText("");
+			this.txtStarred = "";
 		
 		idxVoca = idx;
 	}
 
-	public Text getTxtVocabulary() {
+	public String getTxtVocabulary() {
 		return txtVocabulary;
 	}
 
-	public void setTxtVocabulary(Text txtVocabulary) {
+	public void setTxtVocabulary(String txtVocabulary) {
 		this.txtVocabulary = txtVocabulary;
 	}
 
-	public Text getTxtStarred() {
+	public String getTxtStarred() {
 		return txtStarred;
 	}
 
-	public void setTxtStarred(Text txtStarred) {
+	public void setTxtStarred(String txtStarred) {
 		this.txtStarred = txtStarred;
 	}
 	
