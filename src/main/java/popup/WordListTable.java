@@ -39,11 +39,11 @@ public class WordListTable extends Dialog<Boolean> {
 
 		TableColumn<EVWordTable, String> vocabulary = new TableColumn<EVWordTable, String>("Vocabulary");
 		vocabulary.setCellValueFactory(new PropertyValueFactory<EVWordTable, String>("txtVocabulary"));
-		vocabulary.setPrefWidth(154);
+		vocabulary.setPrefWidth(185);
 
-		TableColumn<EVWordTable, String> starred = new TableColumn<EVWordTable, String>("Starred");
+		TableColumn<EVWordTable, String> starred = new TableColumn<EVWordTable, String>("Marked");
 		starred.setCellValueFactory(new PropertyValueFactory<EVWordTable, String>("txtStarred"));
-		starred.setPrefWidth(54);
+		starred.setPrefWidth(26);
 		starred.setSortable(false);
 
 		tvVocaTable = new TableView<EVWordTable>();

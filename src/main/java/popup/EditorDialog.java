@@ -37,7 +37,7 @@ public class EditorDialog extends Dialog<Boolean> {
 		taExample.setMaxSize(320, 80);
 
 		cbStarred = new CheckBox();
-		cbStarred.setTooltip(new Tooltip("Is starred."));
+		cbStarred.setTooltip(new Tooltip("Is marked."));
 
 		if (hmapVocaContent.get(EVWord.DF_FLAG).equals("1"))
 			cbStarred.setSelected(true);
@@ -76,7 +76,7 @@ public class EditorDialog extends Dialog<Boolean> {
 		grid.add(new Label("Phonetic:"), 0, 1);
 		grid.add(new Label("Vietnamese:"), 0, 2);
 		grid.add(new Label("Example:"), 0, 3);
-		grid.add(new Label("Starred:"), 0, 4);
+		grid.add(new Label("Marked:"), 0, 4);
 
 		grid.add(tfOriginal, 1, 0);
 		grid.add(tfPhonetic, 1, 1);

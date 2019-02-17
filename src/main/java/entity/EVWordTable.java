@@ -9,7 +9,7 @@ public class EVWordTable {
 		this.txtVocabulary = strVocabulary;
 		
 		if (blStarred)
-			this.txtStarred = "Starred";
+			this.txtStarred = "✪";
 		else
 			this.txtStarred = "";
 		
